@@ -1,16 +1,38 @@
-## Hi there 👋
+I'm Ammar Jafleh 
 
-<!--
-**ammarjafleh/ammarjafleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently graduated from the International University for Science and Technology (IUST) with a degree in Information Technology. with extensive experience in Artificial Intelligence, Software Engineering,
+and Project Management. Proven skills in developing AI models and tools, and
+implementing computer vision techniques. Professional in Python, I possess strong problem-solving abilities
+and excellent communication skills. I leverage Artificial Intelligence to enhance and optimize systems,
+Seamlessly integrating AI technologies to maximize efficiency and deliver impactful results.
 
-Here are some ideas to get you started:
+# Hello, I'm Ammar Jafleh 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I recently graduated from the International University for Science and Technology (IUST) with a degree in Information Technology. with extensive experience in Artificial Intelligence, Software Engineering,
+and Project Management. Proven skills in developing AI models and tools, and
+implementing computer vision techniques. Professional in Python, I possess strong problem-solving abilities
+and excellent communication skills. I leverage Artificial Intelligence to enhance and optimize systems,
+Seamlessly integrating AI technologies to maximize efficiency and deliver impactful results.
+
+---
+
+Projects
+- Smart HR Chatbot (Prototype) → AI-powered chatbot for HR recruitment.  
+- Currency Recognition System → Detects and recognizes Syrian banknotes using YOLOv8.  
+- Face Recognition System → Authentication system for known/unknown people.
+  
+---
+
+Tech Stack
+- Python 
+- TensorFlow / PyTorch  
+- OpenCV | Computer Vision  
+- YOLOv8 (Object Detection)  
+  
+
+---
+
+Get in Touch  
+- Email: ammar.iust145@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/ammar-jafleh-145a1b377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app  
+- GitHub: 
