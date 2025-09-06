@@ -10,8 +10,8 @@ Seamlessly integrating AI technologies to maximize efficiency and deliver impact
 
 Projects
 - Smart Glasses to assisstant blind people
-- Currency Recognition System → Detects and recognizes Syrian banknotes using YOLOv8.  
-- Face Recognition System → Authentication system for known/unknown people.
+- Currency Recognition System  Detects and recognizes Syrian banknotes using YOLOv8.  
+- Face Recognition System  Authentication system for known/unknown people.
   
 ---
 
