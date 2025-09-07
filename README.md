@@ -27,4 +27,4 @@ Tech Stack
 
 Get in Touch  
 - Email: ammar.iust145@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/ammar-jafleh
+- LinkedIn: ammar-jafleh
