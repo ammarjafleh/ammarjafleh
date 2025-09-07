@@ -8,14 +8,14 @@ Seamlessly integrating AI technologies to maximize efficiency and deliver impact
 
 ---
 
-Projects
+# Projects
 - Smart Glasses to assisstant blind people
 - Currency Recognition System  Detects and recognizes Syrian banknotes using YOLOv8.  
 - Face Recognition System  Authentication system for known/unknown people.
   
 ---
 
-Tech Stack
+# Tech Stack
 - Python 
 - ML
 - DL
@@ -25,6 +25,6 @@ Tech Stack
 
 ---
 
-Get in Touch  
+# Get in Touch  
 - Email: ammar.iust145@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/ammar-jafleh
