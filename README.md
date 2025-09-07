@@ -6,14 +6,12 @@ implementing computer vision techniques. Professional in Python, I possess stron
 and excellent communication skills. I leverage Artificial Intelligence to enhance and optimize systems,
 Seamlessly integrating AI technologies to maximize efficiency and deliver impactful results.
 
----
 
 # Projects
 - Smart Glasses to assisstant blind people
 - Currency Recognition System  Detects and recognizes Syrian banknotes using YOLOv8.  
 - Face Recognition System  Authentication system for known/unknown people.
   
----
 
 # Tech Stack
 - Python 
@@ -23,7 +21,6 @@ Seamlessly integrating AI technologies to maximize efficiency and deliver impact
 - YOLOv8 (Object Detection)  
   
 
----
 
 # Get in Touch  
 - Email: ammar.iust145@gmail.com  
