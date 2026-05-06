@@ -6,19 +6,22 @@ implementing computer vision techniques. Professional in Python, I possess stron
 and excellent communication skills. I leverage Artificial Intelligence to enhance and optimize systems,
 Seamlessly integrating AI technologies to maximize efficiency and deliver impactful results.
 
+## Skills
+- Python
+- Machine Learning & Deep Learning
+- Computer Vision
+- RAG Systems (LangChain, FAISS)
+- Flask APIs
+- Embedded AI (Raspberry Pi)
+- OpenCV | Computer Vision  
 
 # Projects
-- Smart Glasses to assisstant blind people
+- AI Smart Glasses for the Visually Impaired
+- RAG Chatbot for Backend Support
+- Facial Recognition System
+- Image Classification (DenseNet121)
 - Currency Recognition System  Detects and recognizes Syrian banknotes using YOLOv8.  
-- Face Recognition System  Authentication system for known/unknown people.
-  
 
-# Tech Stack
-- Python 
-- ML
-- DL
-- OpenCV | Computer Vision  
-- YOLOv8 (Object Detection)  
   
 
 
